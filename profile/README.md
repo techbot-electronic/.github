@@ -2,16 +2,7 @@
 
 ![1]( https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif)
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbot-electronic&theme=radical" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=techbot-electronic&show_icons=true&theme=radical" />
-    </td>
-  </tr>
-</table>
+
 
 ### Languages and Tools:
 

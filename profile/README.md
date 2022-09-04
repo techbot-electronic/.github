@@ -5,10 +5,10 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongnham&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbot-electronic&theme=radical" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hongnham&show_icons=true&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=techbot-electronic&show_icons=true&theme=radical" />
     </td>
   </tr>
 </table>

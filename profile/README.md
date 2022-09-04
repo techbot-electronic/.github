@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![1]( https://giphy.com/gifs/robot-walking-robotics-ddR31ZMLGH10k)
+![1]( https://media.giphy.com/media/ddR31ZMLGH10k/giphy.gif)
 
 
 
